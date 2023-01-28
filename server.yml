@@ -88,7 +88,6 @@ Resources:
     Properties:
       ImageId: !Ref AMI
       InstanceType: !Ref InstanceType
-      KeyName: rsa
       SecurityGroups:
         - Ref: WebServerSecGroup
       BlockDeviceMappings:

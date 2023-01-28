@@ -4,10 +4,10 @@
 
 ### For Network
 
-- ./update.sh udagramNetwork network.yml network_params.json
 - ./create.sh udagramNetwork network.yml network_params.json
+- ./update.sh udagramNetwork network.yml network_params.json
 
 ### For Server
 
-- ./update.sh udagramServer server.yml servers_params.json
 - ./create.sh udagramServer server.yml servers_params.json
+- ./update.sh udagramServer server.yml servers_params.json
