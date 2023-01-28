@@ -1,0 +1,14 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "marybudagram"
+  },
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t3.medium"
+  },
+  {
+    "ParameterKey": "AMI",
+    "ParameterValue": "ami-08fdec01f5df9998f"
+  }
+]
